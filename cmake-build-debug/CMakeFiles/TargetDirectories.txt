@@ -1,0 +1,3 @@
+C:/Users/kondr/CLionProjects/Other/QsortModified/cmake-build-debug/CMakeFiles/QsortModified.dir
+C:/Users/kondr/CLionProjects/Other/QsortModified/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kondr/CLionProjects/Other/QsortModified/cmake-build-debug/CMakeFiles/rebuild_cache.dir

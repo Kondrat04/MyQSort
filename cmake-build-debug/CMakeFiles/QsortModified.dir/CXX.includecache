@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kondr/CLionProjects/Other/QsortModified/Thread.cpp
+Thread.h
+C:/Users/kondr/CLionProjects/Other/QsortModified/Thread.h
+
+C:/Users/kondr/CLionProjects/Other/QsortModified/Thread.h
+thread
+-
+queue
+-
+mutex
+-
+condition_variable
+-
+atomic
+-
+
