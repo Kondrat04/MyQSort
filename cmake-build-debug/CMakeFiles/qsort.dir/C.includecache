@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dmitry/CLionProjects/qsort/main.c
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+time.h
+-
+stdbool.h
+-
+
